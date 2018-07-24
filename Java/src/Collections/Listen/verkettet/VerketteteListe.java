@@ -2,11 +2,11 @@ package Collections.Listen.verkettet;
 
 import java.util.*;
 
-import Vergleicher;
+import Collections.Vergleicher;
 
-public class ArrListe<T extends Comparable> {
+public class VerketteteListe<T extends Comparable> {
 
-    List<T> list = new ArrayList<T>();
+    List<T> list = new ArrayList<T>(); //Alternative: new LinkedList<T>();
 
     public void hinzufuegen(T object)
     {
