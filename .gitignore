@@ -2,3 +2,6 @@ Java.iml
 Java/.idea/workspace.xml
 Java/out/
 
+*.xml
+Java/.idea/workspace.xml
+*.xml
