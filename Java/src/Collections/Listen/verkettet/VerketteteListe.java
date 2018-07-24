@@ -1,12 +1,16 @@
 package Collections.Listen.verkettet;
 
+import java.io.Serializable;
 import java.util.*;
 
 import Collections.Vergleicher;
+import Collections.Testinterface;
 
-public class VerketteteListe<T extends Comparable> {
+public class VerketteteListe<T extends Comparable & Testinterface> { //Schränkt den Typparameter ein, auf Objekte die
+                                                                    //die Interfaces A & B implementieren
 
-    List<T> list = new ArrayList<T>(); //Alternative: new LinkedList<T>();
+    List<T> list = new ArrayList<T>(); //ArryList kann durch LinkedList<T>() ausgetauscht werden,
+                                        // da beide das Interface List implementieren
 
     public void hinzufuegen(T object)
     {
@@ -16,6 +20,11 @@ public class VerketteteListe<T extends Comparable> {
     public void entfernen(T object)
     {
         list.remove(object);
+    }
+
+    public T gibIndex(int index)
+    {
+        return list.get(index);
     }
 
     public void listeSortierenComparator1(){
