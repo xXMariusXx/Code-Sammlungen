@@ -1,4 +1,4 @@
-package ToDo.Properties_Bindings.Property.Change.Support2;
+package Done.Properties_Bindings.Property.Change.Support2;
 
 public class Main { //2. Version mit PropertyChangeListener, Werbung implementiert einen Listener
 

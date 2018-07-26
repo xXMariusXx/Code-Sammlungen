@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2534f42-be7e-4741-b6f1-1a7258c4728d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Collections/Listen/Queue/Warteschlange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Collections/Listen/Queue/Warteschlange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Listen/Stack/Stapel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Collections/Listen/Stack/Stapel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Listen/verkettet/VerketteteListe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Collections/Listen/verkettet/VerketteteListe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Listen/verkettet/start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Collections/Listen/verkettet/start.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Set/Menge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Collections/Set/Menge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Testinterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Collections/Testinterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Testobjekt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Collections/Testobjekt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Vergleicher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Collections/Vergleicher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceptions/ExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Exceptions/ExceptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceptions/bisKorrekterWert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Exceptions/bisKorrekterWert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceptions/eigeneExceptions/MyFirstException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Exceptions/eigeneExceptions/MyFirstException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceptions/eigeneExceptions/MyFirstSpecificException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Exceptions/eigeneExceptions/MyFirstSpecificException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceptions/eigeneExceptions/MyRuntimeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Exceptions/eigeneExceptions/MyRuntimeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceptions/eigeneExceptions/MySecondException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Exceptions/eigeneExceptions/MySecondException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceptions/start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Exceptions/start.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFX8/MeinEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToDo/JavaFX8/MeinEventHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFX8/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToDo/JavaFX8/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaIO/SQL/SQLAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToDo/JavaIO/SQL/SQLAccess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaIO/SQL/SQLRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToDo/JavaIO/SQL/SQLRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaIO/Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToDo/JavaIO/Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaIO/printToOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToDo/JavaIO/printToOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaIO/saveToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToDo/JavaIO/saveToFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/OOP/Auto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Fahrzeug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/OOP/Fahrzeug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Mieter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/OOP/Mieter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Motorrad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/OOP/Motorrad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Ottomotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/OOP/Ottomotor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Pkw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/OOP/Pkw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/OOP/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Zweirad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/OOP/Zweirad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/OOP/start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToDo/Properties_Bindings/start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToDo/Properties_Bindings/start.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,7 +30,17 @@
     <favorites_list name="Java" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="start.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/start.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,9 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/OOP/Fahrzeug.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Zweirad.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Ottomotor.java" />
         <option value="$PROJECT_DIR$/src/OOP/Tank.java" />
         <option value="$PROJECT_DIR$/src/OOP/Auto.java" />
         <option value="$PROJECT_DIR$/src/OOP/Mieter.java" />
@@ -145,6 +122,9 @@
         <option value="$PROJECT_DIR$/src/Exceptions/ExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/Exceptions/start.java" />
         <option value="$PROJECT_DIR$/src/Done/Collections/Listen/verkettet/start.java" />
+        <option value="$PROJECT_DIR$/src/ToDo/Properties_Bindings/Main.java" />
+        <option value="$PROJECT_DIR$/src/ToDo/Properties_Bindings/Observer/Main.java" />
+        <option value="$PROJECT_DIR$/src/ToDo/Properties_Bindings/start.java" />
       </list>
     </option>
   </component>
@@ -191,6 +171,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ToDo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ToDo" type="462c0819:PsiDirectoryNode" />
+              <item name="Properties_Bindings" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -212,11 +199,12 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Collections" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ExceptionHandling.Hochwerfen" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ToDo/Properties_Bindings" />
+      <recent name="$PROJECT_DIR$/src/Collections" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -346,7 +334,7 @@
       <workItem from="1532429679047" duration="10452000" />
       <workItem from="1532448874774" duration="56000" />
       <workItem from="1532448954673" duration="22102000" />
-      <workItem from="1532602126458" duration="5746000" />
+      <workItem from="1532602126458" duration="6294000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1532452535299</created>
@@ -383,11 +371,25 @@
       <option name="project" value="LOCAL" />
       <updated>1532607513728</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="-">
+      <created>1532608248957</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1532608248957</updated>
+    </task>
+    <task id="LOCAL-00007" summary="-">
+      <created>1532608311693</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1532608311693</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42271000" />
+    <option name="totallyTimeSpent" value="42819000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -400,6 +402,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="12" show_stripe_button="false" sideWeight="0.5006896" weight="0.18620689" />
@@ -411,7 +414,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32956383" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.32965517" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49919224" weight="0.32965517" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49919224" visible="true" weight="0.32965517" />
       <window_info anchor="bottom" id="Floobits" order="11" show_stripe_button="false" weight="0.32965517" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32965517" />
       <window_info id="Capture Tool" order="3" />
@@ -473,136 +476,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-416">
-          <caret line="238" column="6" lean-forward="true" selection-start-line="238" selection-start-column="6" selection-end-line="238" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="84" column="27" lean-forward="true" selection-start-line="84" selection-start-column="27" selection-end-line="84" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/Collections/Listen/Queue/Warteschlange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/Collections/Listen/Stack/Stapel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/Collections/Set/Menge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/layout/Pane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="133" column="13" selection-start-line="133" selection-start-column="8" selection-end-line="133" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/layout/HBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-101">
-          <caret line="251" column="7" lean-forward="true" selection-start-line="251" selection-start-column="7" selection-end-line="251" selection-end-column="7" />
-          <folding>
-            <element signature="e#8592#8593#0" expanded="true" />
-            <element signature="e#8615#8616#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/layout/FlowPane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="193" column="11" selection-start-line="193" selection-start-column="11" selection-end-line="193" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/layout/BorderPane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="242" column="5" lean-forward="true" selection-start-line="242" selection-start-column="5" selection-end-line="242" selection-end-column="5" />
-          <folding>
-            <element signature="e#8014#8015#0" expanded="true" />
-            <element signature="e#8037#8038#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/layout/Priority.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/geometry/HPos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/shape/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/shape/Line.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/paint/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22029">
-          <caret line="1875" column="11" selection-start-line="1875" selection-start-column="11" selection-end-line="1875" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaFX8/test2.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/EventObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/awt/AWTEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="79" column="44" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/awt/event/ActionEvent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -839,6 +712,128 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Observer/Artikel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret column="8" selection-start-column="8" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Observer/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Observer/Werbung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Property/Change/Simple/Artikel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Property/Change/Simple/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Property/Change/Simple/Werbung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Property/Change/Support/Artikel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Property/Change/Support/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Property/Change/Support/Verwaltung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Property/Change/Support/Werbung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Property/Change/Support2/Artikel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Property/Change/Support2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Property/Change/Support2/Werbung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Property/Invalidation/Artikel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Property/Invalidation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/Property/Invalidation/Werbung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-package ToDo.Properties_Bindings.Property.Change.Support2;
+package Done.Properties_Bindings.Property.Change.Support;
 
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
@@ -8,14 +8,13 @@ import java.io.Serializable;
 public class Artikel implements Serializable {
 
     public static final String PROP_PREIS = "preis";
-    private PropertyChangeSupport changes;
+    private PropertyChangeSupport changes = new PropertyChangeSupport(this);
 
     private String name;
     private int preis;
 
     public Artikel(int p, String s)
     {
-        changes = new PropertyChangeSupport(this);
         this.name = s;
         this.preis = p;
     }

@@ -1,4 +1,4 @@
-package ToDo.Properties_Bindings.Property.Change.Simple;
+package Done.Properties_Bindings.Property.Change.Simple;
 
 
 public class Main {

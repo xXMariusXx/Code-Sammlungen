@@ -1,4 +1,4 @@
-package ToDo.Properties_Bindings.Observer;
+package Done.Properties_Bindings.Observer;
 
 import java.util.Observable;
 import java.util.Observer;
