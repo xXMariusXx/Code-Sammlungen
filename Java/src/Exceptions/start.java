@@ -6,11 +6,14 @@ import Exceptions.eigeneExceptions.MySecondException;
 
 public class start {
 
-    final static int i = 0;
+    final static int i = 0; //0=0, -1=negativ, 1=positiv
 
     public static void main(String[] args) {
+        //**************************************************************************************************************
         //bisKorrekterWert
-        bisKorrekterWert.bisOk();
+        //bisKorrekterWert.bisOk();
+        //**************************************************************************************************************
+
 
         ExceptionTest exceptionTest = new ExceptionTest();
         boolean doWeiterleiten = false;
@@ -80,7 +83,7 @@ public class start {
     {
         //runtimeException:
         //Kann mit try catch abgefangen werden, muss aber nicht
-        exceptionTest.zahlGroeßer5Run(i);
+        exceptionTest.zahlPositivRun(i);
         // -> Sout wird nicht ausgeführt, da Programm abbricht wenn Excpetion nicht behandelt wird, was korrekt ist!
         System.out.println("<RuntimeException>: Programm beendet");
     }
@@ -95,7 +98,7 @@ public class start {
         // genau so würde Exception automatisch MyFirstException fangen
         try
         {
-            exceptionTest.zahlGroeßer5(i);
+            exceptionTest.zahlPositiv(i);
         }
         catch (MyFirstSpecificException e)
         {
@@ -120,7 +123,7 @@ public class start {
        /* //**************************************************************************************************************
         //normale Exception mit innerer Klasse
         try {
-            exceptionTest.zahlGroeßer5Inner(i);
+            exceptionTest.zahlPositivInner(i);
         }
         catch (ExceptionTest.MyInnerException e)
         {
@@ -132,7 +135,7 @@ public class start {
 
     public static void leiteWeiter(ExceptionTest exceptionTest) throws MyFirstException, MySecondException
     {
-        exceptionTest.zahlGroeßer5(i);
+        exceptionTest.zahlPositiv(i);
     }
 
 
@@ -141,7 +144,7 @@ public class start {
         //normale Exception:
         try
         {
-            exceptionTest.zahlGroeßer5(i);
+            exceptionTest.zahlPositiv(i);
         }
         catch (MyFirstSpecificException e)
         {

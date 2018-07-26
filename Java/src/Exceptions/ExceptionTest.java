@@ -9,9 +9,9 @@ public class ExceptionTest {
 
     //**************************************************************************************************************
     //normale Exception
-    public void zahlGroeßer5(int i) throws MyFirstSpecificException, MyFirstException, MySecondException
+    public void zahlPositiv(int i) throws MyFirstException, MySecondException
     {
-        if (i > 4)
+        if (i > 0)
         {
             System.out.println("<normale Exception>: Zahl korrekt: " + i);
         }
@@ -34,9 +34,9 @@ public class ExceptionTest {
 
     //**************************************************************************************************************
     //RuntimeException
-    public void zahlGroeßer5Run(int i) // throws MyRuntimeException ist nicht notwendig, da Runtimeexception
+    public void zahlPositivRun(int i) // throws MyRuntimeException ist nicht notwendig, da Runtimeexception
     {
-        if (i > 9)
+        if (i > 0)
         {
             System.out.println("<RuntimeException>: Zahl korrekt: " + i);
         }
@@ -56,9 +56,9 @@ public class ExceptionTest {
         }
     }
 
-    public void zahlGroeßer5Inner(int i) throws MyInnerException //
+    public void zahlPositivInner(int i) throws MyInnerException //
     {
-        if (i > 5)
+        if (i > 0)
         {
             System.out.println("<(inner)normale Exception>: Zahl korrekt: " + i);
         }
