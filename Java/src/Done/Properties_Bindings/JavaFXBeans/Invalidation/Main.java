@@ -1,4 +1,4 @@
-package Done.Properties_Bindings.Property.Change.Simple;
+package Done.Properties_Bindings.JavaFXBeans.Invalidation;
 
 
 public class Main {

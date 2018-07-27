@@ -1,4 +1,4 @@
-package Done.Properties_Bindings.Property.Invalidation;
+package Done.Properties_Bindings.JavaFXBeans.Invalidation;
 
 
 import javafx.beans.InvalidationListener;

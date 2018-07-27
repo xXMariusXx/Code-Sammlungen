@@ -1,7 +1,8 @@
-package Done.Properties_Bindings.Property.Change.Simple;
+package Done.Properties_Bindings.JavaFXBeans.Invalidation;
 
 import javafx.beans.property.IntegerProperty;
 import javafx.beans.property.SimpleIntegerProperty;
+
 import java.io.Serializable;
 
 public class Artikel implements Serializable {
@@ -29,7 +30,7 @@ public class Artikel implements Serializable {
         return preis;
     }
 
-    public final int getPreis() //final, damit Unterklassen nicht überschreiben können
+    public final int getPreis()
     {
         return preis.get();
     }

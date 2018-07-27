@@ -1,4 +1,4 @@
-package Done.Properties_Bindings.Property.Change.Support;
+package Done.Properties_Bindings.JavaBeans.Support;
 
 import java.util.LinkedList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package Done.Properties_Bindings.Observer;
+package Done.Properties_Bindings.JavaUtil;
 
 public class Main {
 
