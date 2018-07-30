@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2534f42-be7e-4741-b6f1-1a7258c4728d" name="Default" comment="">
+    <list default="true" id="d2534f42-be7e-4741-b6f1-1a7258c4728d" name="Default" comment="-">
+      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/Files/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/Files/RandomAccessFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/Streams/ByteStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/Streams/CharStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/Streams/MyFilterWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/Streams/Serialisierung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/TestNebenObjekt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/Testobjekt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/JavaFX8/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Observer/Artikel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaUtil/Artikel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Observer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaUtil/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Observer/Werbung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaUtil/Werbung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Property/Change/Simple/Artikel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaFXBeans/Simple/Artikel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Property/Change/Simple/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaFXBeans/Invalidation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Property/Change/Simple/Werbung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaFXBeans/Simple/Werbung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Property/Change/Support/Artikel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaBeans/Support/Artikel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Property/Change/Support/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaBeans/Support/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Property/Change/Support/Verwaltung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaBeans/Support/Verwaltung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Property/Change/Support/Werbung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaBeans/Support/Werbung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Property/Change/Support2/Artikel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaBeans/Support2/Artikel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Property/Change/Support2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaBeans/Support2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Property/Change/Support2/Werbung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaBeans/Support2/Werbung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Property/Invalidation/Artikel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaFXBeans/Invalidation/Artikel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Property/Invalidation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaFXBeans/Simple/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/Property/Invalidation/Werbung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaFXBeans/Invalidation/Werbung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToDo/JavaIO/ByteStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToDo/JavaIO/ByteStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToDo/JavaIO/Scanner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToDo/JavaIO/printToOutput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToDo/JavaIO/saveToFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/JavaIO/SQL/SQLAccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/JavaIO/SQL/SQLRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/JavaIO/printToOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/JavaIO/saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Auto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Fahrzeug.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Mieter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Motorrad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Ottomotor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Pkw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Tank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Zweirad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/start.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToDo/JavaIO/SQL/SQLAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/JavaIO/SQL/SQLAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToDo/JavaIO/SQL/SQLRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/JavaIO/SQL/SQLRequest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,64 +53,7 @@
     <favorites_list name="Java" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RandomAccessFiles.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ToDo/JavaIO/RandomAccessFiles.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="93" column="39" lean-forward="true" selection-start-line="93" selection-start-column="39" selection-end-line="93" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#erzeugen#0;class#RandomAccessFiles#0" />
-                <element signature="method#copy#0;class#RandomAccessFiles#0" />
-                <element signature="method#cat#0;class#RandomAccessFiles#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ByteStreams.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ToDo/JavaIO/ByteStreams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-              <folding>
-                <element signature="method#dateiEinlesen#0;class#ByteStreams#0" />
-                <element signature="method#copy#0;class#ByteStreams#0" />
-                <element signature="method#inDateiSpeichern#0;class#ByteStreams#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CharStreams.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ToDo/JavaIO/SQL/CharStreams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InputStream.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/InputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30">
-              <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomAccessFile.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/RandomAccessFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="768" column="28" selection-start-line="768" selection-start-column="22" selection-end-line="768" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -135,6 +80,8 @@
       <find>buildevent</find>
       <find>public Menu</find>
       <find>readch</find>
+      <find>read</find>
+      <find>tostring</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -143,12 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Collections/Listen/Set/Menge.java" />
-        <option value="$PROJECT_DIR$/src/Collections/Listen/verkettet/ArrListen.java" />
-        <option value="$PROJECT_DIR$/src/Collections/XVergleicher.java" />
-        <option value="$PROJECT_DIR$/src/Collections/Listen/verkettet/linkList.java" />
-        <option value="$PROJECT_DIR$/src/Collections/Listen/verkettet/LinkList.java" />
-        <option value="$PROJECT_DIR$/src/Collections/Listen/verkettet/ArrListe.java" />
         <option value="$PROJECT_DIR$/src/Collections/Listen/verkettet/Liste.java" />
         <option value="$PROJECT_DIR$/src/Collections/Listen/verkettet/start.java" />
         <option value="$PROJECT_DIR$/src/Collections/Testobjekt.java" />
@@ -189,11 +130,17 @@
         <option value="$PROJECT_DIR$/src/ToDo/Properties_Bindings/Observer/Main.java" />
         <option value="$PROJECT_DIR$/src/ToDo/Properties_Bindings/start.java" />
         <option value="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaUtil/Artikel.java" />
-        <option value="$PROJECT_DIR$/src/ToDo/JavaIO/Testobjekt.java" />
         <option value="$PROJECT_DIR$/src/ToDo/JavaIO/Files.java" />
         <option value="$PROJECT_DIR$/src/ToDo/JavaIO/Streams.java" />
         <option value="$PROJECT_DIR$/src/ToDo/JavaIO/RandomAccessFiles.java" />
         <option value="$PROJECT_DIR$/src/ToDo/JavaIO/ByteStreams.java" />
+        <option value="$PROJECT_DIR$/src/ToDo/JavaIO/CharStreams.java" />
+        <option value="$PROJECT_DIR$/src/ToDo/JavaIO/Streams/CharStreams.java" />
+        <option value="$PROJECT_DIR$/src/ToDo/JavaIO/Streams/MyFilterWriter.java" />
+        <option value="$PROJECT_DIR$/src/ToDo/JavaIO/TestNebenObjekt.java" />
+        <option value="$PROJECT_DIR$/src/ToDo/JavaIO/Streams/Serialisierung.java" />
+        <option value="$PROJECT_DIR$/src/ToDo/JavaIO/Testobjekt.java" />
+        <option value="$PROJECT_DIR$/src/Done/JavaIO/Files/RandomAccessFiles.java" />
       </list>
     </option>
   </component>
@@ -246,28 +193,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ToDo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ToDo" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaIO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ToDo" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaIO" type="462c0819:PsiDirectoryNode" />
-              <item name="SQL" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,64 +234,64 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ByteStreams">
+  <component name="RunManager" selected="Application.Serialisierung">
     <configuration name="ByteStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToDo.JavaIO.ByteStreams" />
+      <option name="MAIN_CLASS_NAME" value="Done.JavaIO.Streams.ByteStreams" />
       <module name="Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ToDo.JavaIO.*" />
+          <option name="PATTERN" value="Done.JavaIO.Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CharStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Done.JavaIO.Streams.CharStreams" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Done.JavaIO.Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToDo.JavaIO.Files" />
+      <option name="MAIN_CLASS_NAME" value="Done.JavaIO.Files.Files" />
       <module name="Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ToDo.JavaIO.*" />
+          <option name="PATTERN" value="Done.JavaIO.Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="RandomAccessFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToDo.JavaIO.RandomAccessFiles" />
+      <option name="MAIN_CLASS_NAME" value="Done.JavaIO.Files.RandomAccessFiles" />
       <module name="Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ToDo.JavaIO.*" />
+          <option name="PATTERN" value="Done.JavaIO.Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Serialisierung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Done.JavaIO.Streams.Serialisierung" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Done.JavaIO.Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Done.OOP.start" />
-      <module name="Java" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Done.OOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Done.Exceptions.start" />
-      <module name="Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Done.Exceptions.eigeneExceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exceptions.allgemein.start" />
@@ -411,19 +343,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.start" />
-      <item itemvalue="Application.start (2)" />
       <item itemvalue="Application.Files" />
       <item itemvalue="Application.RandomAccessFiles" />
       <item itemvalue="Application.ByteStreams" />
+      <item itemvalue="Application.CharStreams" />
+      <item itemvalue="Application.Serialisierung" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Serialisierung" />
+        <item itemvalue="Application.CharStreams" />
         <item itemvalue="Application.ByteStreams" />
         <item itemvalue="Application.RandomAccessFiles" />
         <item itemvalue="Application.Files" />
-        <item itemvalue="Application.start (2)" />
-        <item itemvalue="Application.start" />
       </list>
     </recent_temporary>
   </component>
@@ -443,7 +375,8 @@
       <workItem from="1532429679047" duration="10452000" />
       <workItem from="1532448874774" duration="56000" />
       <workItem from="1532448954673" duration="22102000" />
-      <workItem from="1532602126458" duration="18719000" />
+      <workItem from="1532602126458" duration="22856000" />
+      <workItem from="1532786741588" duration="9894000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1532452535299</created>
@@ -501,11 +434,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532608772487</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="-">
+      <created>1532708657421</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1532708657422</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55244000" />
+    <option name="totallyTimeSpent" value="69275000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -534,9 +474,8 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32965517" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49931034" visible="true" weight="0.19386107" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49931034" visible="true" weight="0.19709209" />
       <window_info anchor="right" id="Database" order="6" weight="0.32956383" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32965517" />
       <window_info id="Structure" order="1" sideWeight="0.5006896" side_tool="true" weight="0.18659128" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.24959612" />
       <window_info id="UI Designer" order="5" />
@@ -548,6 +487,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32965517" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,7 +528,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -596,97 +536,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/layout/Region.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="558" column="32" selection-start-line="558" selection-start-column="22" selection-end-line="558" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/control/Control.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="81" column="41" lean-forward="true" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/control/Labeled.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="95" column="41" lean-forward="true" selection-start-line="95" selection-start-column="41" selection-end-line="95" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/control/Label.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/control/ListView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="401" column="43" selection-start-line="401" selection-start-column="35" selection-end-line="401" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToDo/JavaFX8/MeinEventHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/collections/FXCollections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="331" lean-forward="true" selection-start-line="331" selection-end-line="331" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/control/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-293">
-          <caret line="127" column="15" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exceptions/RuntimeExceptionTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exceptions/Hochwerfen/main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exceptions/Hochwerfen/AnzahlException.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exceptions/Hochwerfen/ZwischenKlasse.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exceptions/Hochwerfen/Personalverwaltung.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-193">
-          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
-          <folding>
-            <element signature="e#1247#1248#0" expanded="true" />
-            <element signature="e#1270#1271#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToDo/JavaFX8/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="68" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1947#1948#0" expanded="true" />
-            <element signature="e#2005#2006#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Done/Exceptions/bisKorrekterWert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -842,13 +691,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/start.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/Properties_Bindings/start.java" />
     <entry file="file://$PROJECT_DIR$/src/Done/Properties_Bindings/JavaFXBeans/Invalidation/Artikel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -870,49 +713,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToDo/JavaIO/sonstiges/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToDo/JavaIO/Testobjekt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToDo/JavaIO/sonstiges/saveToFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToDo/JavaIO/sonstiges/printToOutput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Done/Properties_Bindings/JavaUtil/Artikel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToDo/JavaIO/Files.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#ausgaben#0;class#Files#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -932,39 +736,217 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/InputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
+        <state relative-caret-position="315">
           <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToDo/JavaIO/RandomAccessFiles.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/InputStreamReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="93" column="39" lean-forward="true" selection-start-line="93" selection-start-column="39" selection-end-line="93" selection-end-column="39" />
+        <state relative-caret-position="540">
+          <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/StringReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/PrintWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="261" column="11" selection-start-line="261" selection-start-column="11" selection-end-line="261" selection-end-column="11" />
+          <folding>
+            <element signature="e#3871#3872#0" expanded="true" />
+            <element signature="e#3903#3904#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/FileWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/StringWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/SequenceInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="86" column="11" selection-start-line="86" selection-start-column="11" selection-end-line="86" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/FilterWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Streams/CharStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="142" column="4" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#stringAusDateiEinlesen#0;class#CharStreams#0" />
+            <element signature="method#stringInDateiAbspeichern#0;class#CharStreams#0" />
+            <element signature="method#stringToStream#0;class#CharStreams#0" />
+            <element signature="method#streamToString#0;class#CharStreams#0" />
+            <element signature="method#objectToFile#0;class#CharStreams#0" />
+            <element signature="method#filtern#0;class#CharStreams#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="6367" column="23" selection-start-line="6367" selection-start-column="23" selection-end-line="6367" selection-end-column="23" />
+          <folding>
+            <element signature="e#227755#227756#0" expanded="true" />
+            <element signature="e#227804#227805#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Streams/MyFilterWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Streams/ByteStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#dateiEinlesen#0;class#ByteStreams#0" />
+            <element signature="method#copy#0;class#ByteStreams#0" />
+            <element signature="method#inDateiSpeichern#0;class#ByteStreams#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/TestNebenObjekt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Testobjekt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/JavaIO/sonstiges/printToOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/JavaIO/sonstiges/saveToFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ToDo/JavaIO/sonstiges/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Streams/Serialisierung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="18" column="131" selection-start-line="18" selection-start-column="131" selection-end-line="18" selection-end-column="131" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Files/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ausgaben#0;class#Files#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Files/RandomAccessFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#erzeugen#0;class#RandomAccessFiles#0" />
             <element signature="method#copy#0;class#RandomAccessFiles#0" />
             <element signature="method#cat#0;class#RandomAccessFiles#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToDo/JavaIO/SQL/CharStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ToDo/JavaIO/ByteStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding>
-            <element signature="method#dateiEinlesen#0;class#ByteStreams#0" />
-            <element signature="method#copy#0;class#ByteStreams#0" />
-            <element signature="method#inDateiSpeichern#0;class#ByteStreams#0" />
           </folding>
         </state>
       </provider>

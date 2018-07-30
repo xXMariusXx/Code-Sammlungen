@@ -1,4 +1,4 @@
-package ToDo.JavaIO.SQL;
+package Done.JavaIO.SQL;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
