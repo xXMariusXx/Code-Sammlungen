@@ -33,7 +33,7 @@ public class CharStreams {
         }
 
 
-        objectToFile(, new File("/Users/Marius/Desktop/object.txt"));
+        objectToFile(new Testobjekt("Testobjekt"), new File("/Users/Marius/Desktop/object.txt"));
 
 
         try

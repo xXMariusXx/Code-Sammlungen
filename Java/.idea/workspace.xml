@@ -1,31 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2534f42-be7e-4741-b6f1-1a7258c4728d" name="Default" comment="-">
-      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/Files/Files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/Files/RandomAccessFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/Streams/ByteStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/Streams/CharStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/Streams/MyFilterWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/Streams/Serialisierung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/TestNebenObjekt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Done/JavaIO/Testobjekt.java" afterDir="false" />
+    <list default="true" id="d2534f42-be7e-4741-b6f1-1a7258c4728d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/JavaIO/SQL/SQLAccess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/JavaIO/SQL/SQLRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/JavaIO/printToOutput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/JavaIO/saveToFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Auto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Fahrzeug.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Mieter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Motorrad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Ottomotor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Pkw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Tank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/Zweirad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/OOP/start.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToDo/JavaIO/SQL/SQLAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/JavaIO/SQL/SQLAccess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToDo/JavaIO/SQL/SQLRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/JavaIO/SQL/SQLRequest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,7 +30,33 @@
     <favorites_list name="Java" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CharStreams.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Streams/CharStreams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <folding>
+                <element signature="method#stringAusDateiEinlesen#0;class#CharStreams#0" />
+                <element signature="method#stringInDateiAbspeichern#0;class#CharStreams#0" />
+                <element signature="method#stringToStream#0;class#CharStreams#0" />
+                <element signature="method#streamToString#0;class#CharStreams#0" />
+                <element signature="method#filtern#0;class#CharStreams#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Testobjekt.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Testobjekt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,7 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Collections/Listen/verkettet/Liste.java" />
         <option value="$PROJECT_DIR$/src/Collections/Listen/verkettet/start.java" />
         <option value="$PROJECT_DIR$/src/Collections/Testobjekt.java" />
         <option value="$PROJECT_DIR$/src/Collections/Listen/verkettet/VerketteteListe.java" />
@@ -141,6 +143,7 @@
         <option value="$PROJECT_DIR$/src/ToDo/JavaIO/Streams/Serialisierung.java" />
         <option value="$PROJECT_DIR$/src/ToDo/JavaIO/Testobjekt.java" />
         <option value="$PROJECT_DIR$/src/Done/JavaIO/Files/RandomAccessFiles.java" />
+        <option value="$PROJECT_DIR$/src/Done/JavaIO/Streams/CharStreams.java" />
       </list>
     </option>
   </component>
@@ -186,6 +189,21 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Done" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Done" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaIO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Done" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaIO" type="462c0819:PsiDirectoryNode" />
+              <item name="Streams" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
@@ -343,9 +361,9 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="Application.start" />
       <item itemvalue="Application.Files" />
       <item itemvalue="Application.RandomAccessFiles" />
-      <item itemvalue="Application.ByteStreams" />
       <item itemvalue="Application.CharStreams" />
       <item itemvalue="Application.Serialisierung" />
     </list>
@@ -353,7 +371,6 @@
       <list>
         <item itemvalue="Application.Serialisierung" />
         <item itemvalue="Application.CharStreams" />
-        <item itemvalue="Application.ByteStreams" />
         <item itemvalue="Application.RandomAccessFiles" />
         <item itemvalue="Application.Files" />
       </list>
@@ -376,7 +393,7 @@
       <workItem from="1532448874774" duration="56000" />
       <workItem from="1532448954673" duration="22102000" />
       <workItem from="1532602126458" duration="22856000" />
-      <workItem from="1532786741588" duration="9894000" />
+      <workItem from="1532786741588" duration="10117000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1532452535299</created>
@@ -441,11 +458,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532708657422</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="-">
+      <created>1532953897806</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1532953897808</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69275000" />
+    <option name="totallyTimeSpent" value="69498000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,6 +482,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="12" show_stripe_button="false" sideWeight="0.5006896" weight="0.18620689" />
@@ -826,22 +851,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Streams/CharStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="142" column="4" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#stringAusDateiEinlesen#0;class#CharStreams#0" />
-            <element signature="method#stringInDateiAbspeichern#0;class#CharStreams#0" />
-            <element signature="method#stringToStream#0;class#CharStreams#0" />
-            <element signature="method#streamToString#0;class#CharStreams#0" />
-            <element signature="method#objectToFile#0;class#CharStreams#0" />
-            <element signature="method#filtern#0;class#CharStreams#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Character.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
@@ -886,13 +895,6 @@
             <element signature="e#113#114#0" expanded="true" />
             <element signature="e#145#146#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Testobjekt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -948,6 +950,27 @@
             <element signature="method#copy#0;class#RandomAccessFiles#0" />
             <element signature="method#cat#0;class#RandomAccessFiles#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Streams/CharStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <element signature="method#stringAusDateiEinlesen#0;class#CharStreams#0" />
+            <element signature="method#stringInDateiAbspeichern#0;class#CharStreams#0" />
+            <element signature="method#stringToStream#0;class#CharStreams#0" />
+            <element signature="method#streamToString#0;class#CharStreams#0" />
+            <element signature="method#filtern#0;class#CharStreams#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Testobjekt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>
