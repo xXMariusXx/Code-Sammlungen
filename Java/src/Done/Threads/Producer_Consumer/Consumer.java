@@ -19,10 +19,11 @@ public class Consumer implements Runnable {
                 while (monitor.isEmpty()) { //Bedingung, wann Consumer warten muss
                     try {
                         monitor.wait(TIMEOUT); //Thread legt sich schlafen, gibt monitor ab und wartet auf notify.
-                                        //Wenn notify ausgeführt wird, wartet wait so lange bis dieser Thread
-                                        //monitor wieder für sich beanspruchen kann
+                                             //Wenn notify ausgeführt wird, wartet wait so lange bis dieser Thread
+                                            //monitor wieder für sich beanspruchen kann
                     } catch (InterruptedException e) {
                         System.err.println(Thread.currentThread().getName() + " interrupted!");
+                        Thread.currentThread().interrupt();
                     }
                 }
                 System.out.println("<Consumer> Zahl ausgelesen: " + monitor.entfernen());
@@ -32,12 +33,12 @@ public class Consumer implements Runnable {
             //Schlafen um die Lesbarkeit zu steigern
             try
             {
-
                 sleep(new Random().nextInt(5000));
             }
             catch (InterruptedException e)
             {
                 e.printStackTrace();
+                Thread.currentThread().interrupt();
             }
         }
     }

@@ -22,10 +22,11 @@ public class Producer implements Runnable {
                         monitor.wait(TIMEOUT);
                     } catch (InterruptedException e) {
                         System.err.println(Thread.currentThread().getName() + " interrupted!");
+                        Thread.currentThread().interrupt();
                     }
                 }
-                System.out.println("<Producer> Zahl produziert, Elemente in Liste: " + monitor.elementeInListe());
                 monitor.anfuegen(i++);
+                System.out.println("<Producer> Zahl produziert, Elemente in Liste: " + monitor.elementeInListe());
                 monitor.notifyAll();
             }
 
@@ -37,6 +38,7 @@ public class Producer implements Runnable {
             catch (InterruptedException e)
             {
                 e.printStackTrace();
+                Thread.currentThread().interrupt();
             }
 
         }
