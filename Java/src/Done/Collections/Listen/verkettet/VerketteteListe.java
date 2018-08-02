@@ -39,6 +39,14 @@ public class VerketteteListe<T extends Comparable & Testinterface> { //Schränkt
         });
     }
 
+    public void listeSortierenComparator3(){
+        Collections.sort(list, (o1, o2) -> o1.compareTo(o2));
+    }
+
+    public void listeSortierenComparator4(){
+        Collections.sort(list, Comparator.naturalOrder());
+    }
+
     public void listeSortierenComparable(){
         Collections.sort(list);
     }
@@ -65,6 +73,9 @@ public class VerketteteListe<T extends Comparable & Testinterface> { //Schränkt
             }
             System.out.println("----------------------------------- Iteriert durch For-Schleife!");
         }
+
+        //oder:
+        //list.forEach(System.out::println);
 
     }
 }
