@@ -1,4 +1,4 @@
-package Sonstiges;
+package Done.Sonstiges;
 
 interface FunktionalesInterface<T> {
 
