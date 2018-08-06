@@ -6,7 +6,7 @@ import java.io.*;
 
 public class Serialisierung {
     public static void main(String[] args) {
-        //serialisieren(new Testobjekt("O1"), new File("/Users/Marius/Desktop/obj.ser"));
+        serialisieren(new Testobjekt("O1"), new File("/Users/Marius/Desktop/obj.ser"));
         System.out.println(deserialisieren(new File("/Users/Marius/Desktop/obj.ser")).toString());
     }
 

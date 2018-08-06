@@ -66,6 +66,8 @@ public class LamdaAusdruecke {
         Arrays.sort(strings, (s1, s2) -> s1.compareTo(s2));
         Arrays.sort(strings, String::compareTo);
         Arrays.sort(strings, Comparator.naturalOrder());
+        Arrays.sort(strings, Comparator.comparing(s -> s));
+
 
         //******************************************************************************************************************************
         //Beispiel Comparator2
@@ -74,7 +76,8 @@ public class LamdaAusdruecke {
             return a.getName().compareTo(b.getName());
         };
         Comparator<Testobjekt> testobjektComparator1 = (a, b) -> (a.getName().compareTo(b.getName()));
-        Comparator<Testobjekt> testobjektComparator2 = Comparator.comparing(Testobjekt::getName);
+        Comparator<Testobjekt> testobjektComparator2 = Comparator.comparing(a -> a.getName());
+        Comparator<Testobjekt> testobjektComparator3 = Comparator.comparing(Testobjekt::getName);
 
         //******************************************************************************************************************************
         //Beispiel Runnable: void run();
@@ -86,6 +89,7 @@ public class LamdaAusdruecke {
             }
         };
         Thread thread = new Thread(runnable1);
+        thread.start();
 
 
         //******************************************************************************************************************************
@@ -109,6 +113,7 @@ public class LamdaAusdruecke {
 
     //******************************************************************************************************************************
     //Beispiel Rekursion Fakultät
-    public static IntFunction<Integer> rekursion = n -> (n == 0) ? 1 : n * LamdaAusdruecke.rekursion.apply(n - 1);
+    public static IntFunction<Integer> rekursion = n -> {return (n == 0) ? 1 : n * LamdaAusdruecke.rekursion.apply(n - 1);};
+    int ergebnis = rekursion.apply(5);
 
 }

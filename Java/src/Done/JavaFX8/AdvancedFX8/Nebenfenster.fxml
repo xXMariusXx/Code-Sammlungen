@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="Done.JavaFX8.AdvancedFX8.NebenfensterController">
+    <top>
+        <MenuBar>
+            <Menu text="Menü 1">
+                <MenuItem fx:id="menuItemBeenden" text="Beenden" onAction="#beenden"/>
+            </Menu>
+            <Menu text="Menü 2">
+                <MenuItem fx:id="menuItemNeueZahl" text="neue Zahl" onAction="#neueZahl"/>
+            </Menu>
+        </MenuBar>
+    </top>
+    <center>
+        <VBox>
+            <Label fx:id="titel" alignment="CENTER" />
+            <ListView fx:id="listview" />
+        </VBox>
+    </center>
+
+</BorderPane>

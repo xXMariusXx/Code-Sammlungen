@@ -34,6 +34,8 @@ public class Methodenreferenz {
         Function<String, Integer> len = String::length;
         Function<String,Testobjekt> testobjektFunction = (string) -> new Testobjekt(string);
         Function<String,Testobjekt> testobjektFunction2 = Testobjekt::new;
+        //Testobjekt testobjekt = testobjektFunction2.apply("hans");
+        //testobjekt.getName();
 
 
         //Beispiel Comparator
@@ -54,6 +56,7 @@ public class Methodenreferenz {
 
         //Beispiel Liste
         List<String> list = Arrays.asList(feld);
+        list.forEach(s -> System.out.println(s + "a"));
         list.forEach(System.out::println);
         //oder
         Arrays.asList(feld).forEach(System.out::println);

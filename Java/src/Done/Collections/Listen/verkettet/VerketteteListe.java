@@ -1,6 +1,7 @@
 package Done.Collections.Listen.verkettet;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 import Done.Collections.Vergleicher;
 import Done.Collections.Testinterface;
