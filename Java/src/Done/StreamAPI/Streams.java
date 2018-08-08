@@ -1,6 +1,8 @@
 package Done.StreamAPI;
 
+import java.nio.file.Files;
 import java.util.*;
+import java.util.function.Predicate;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -34,6 +36,7 @@ public class Streams {
         listStream.filter(o -> o.getName().contains("a"));
         listStream.filter(o -> o.getName().length() > 1);
 
+
         //Transformieren
         listStream.map(s -> s.getName().toLowerCase());
         listStream.map(Testobjekt::getId);
@@ -46,7 +49,7 @@ public class Streams {
 
         //Sortieren
         listStream.sorted(); //Objekte müssen Compareable sein
-        listStream.sorted(Comparator.comparingInt(Testobjekt::getAlter));
+        listStream.sorted(Comparator.comparing(Testobjekt::getAlter));
         listStream.map(Testobjekt::getName).sorted(String::compareToIgnoreCase);
 
         //Substreams
@@ -54,6 +57,7 @@ public class Streams {
         listStream.skip(3);
 
         //Terminaloperationen -> liefert Teilweise keinen Stream zurück sondern Optional<T>)
+        //reduce auch
         listStream.count();
         listStream.max(Comparator.comparingInt(Testobjekt::getAlter));
         listStream.min(Comparator.comparingInt(Testobjekt::getAlter));
