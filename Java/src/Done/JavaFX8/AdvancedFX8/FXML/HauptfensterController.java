@@ -1,4 +1,4 @@
-package Done.JavaFX8.AdvancedFX8;
+package Done.JavaFX8.AdvancedFX8.FXML;
 
 import Done.JavaFX8.Testobjekt;
 import javafx.application.Application;
