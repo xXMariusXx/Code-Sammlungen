@@ -1,0 +1,8 @@
+#titel {
+    -fx-alignment: center;
+    -fx-text-fill: blue;
+    -fx-font-size: 20;
+}
+#listview {
+    -fx-background-color: yellow;
+}

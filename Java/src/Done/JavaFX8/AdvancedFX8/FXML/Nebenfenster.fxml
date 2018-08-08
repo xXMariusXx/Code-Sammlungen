@@ -5,7 +5,8 @@
 
 <BorderPane xmlns="http://javafx.com/javafx"
             xmlns:fx="http://javafx.com/fxml"
-            fx:controller="Done.JavaFX8.AdvancedFX8.FXML.NebenfensterController">
+            fx:controller="Done.JavaFX8.AdvancedFX8.FXML.NebenfensterController"
+            stylesheets="/Done/JavaFX8/AdvancedFX8/FXML/Nebenfenster.css">
     <top>
         <MenuBar>
             <Menu text="Menü 1">
@@ -18,7 +19,7 @@
     </top>
     <center>
         <VBox>
-            <Label fx:id="titel" alignment="CENTER" />
+            <Label fx:id="titel" />
             <ListView fx:id="listview" />
         </VBox>
     </center>

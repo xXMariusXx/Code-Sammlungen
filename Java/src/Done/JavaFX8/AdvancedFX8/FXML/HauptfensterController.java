@@ -39,7 +39,6 @@ public class HauptfensterController extends Application implements Initializable
         //hauptfensterController.initList();
 
         Scene scene = new Scene(hauptfensterPane);
-        stage.initStyle(StageStyle.DECORATED);
         stage.setScene(scene);
         stage.show();
     }
@@ -66,8 +65,8 @@ public class HauptfensterController extends Application implements Initializable
         nebenfensterController.setParameters(controller);
 
         Scene scene = new Scene(nebenfenster);
+        //Direkt in FXMl gesetzt scene.getStylesheets().add("/Done/JavaFX8/AdvancedFX8/FXML/Nebenfenster.css");
         Stage myStage = new Stage();
-        myStage.initStyle(StageStyle.DECORATED);
         myStage.setScene(scene);
         myStage.show();
     }
