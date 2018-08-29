@@ -93,7 +93,6 @@ public class CharStreams {
     {
         try (OutputStreamWriter outputStreamWriter = new OutputStreamWriter(outputStream);
              //Kann gespart werden, da PrintWriter in OutputStream schreiben kann
-
             PrintWriter printWriter = new PrintWriter(outputStreamWriter))
         {
             printWriter.write(string);

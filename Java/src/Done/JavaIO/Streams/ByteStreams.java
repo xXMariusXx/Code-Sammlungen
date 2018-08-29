@@ -15,15 +15,15 @@ public class ByteStreams { //eignen sich nicht für Strings/Chars, sondern für 
 
     public static void dateiEinlesen(File from)
     {
-        try (InputStream fileInputStream = new FileInputStream(from);
-             InputStream bufferedInputStream = new BufferedInputStream(fileInputStream);
-             OutputStream bufferedOutputStream = new BufferedOutputStream(System.out))
-                // so korrekt?
+        try (FileInputStream fileInputStream = new FileInputStream(from);
+             BufferedInputStream bufferedInputStream = new BufferedInputStream(fileInputStream);
+             BufferedOutputStream bufferedOutputStream = new BufferedOutputStream(System.out);
+             PrintStream printStream = new PrintStream(bufferedOutputStream))
         {
             int i;
             while ((i = bufferedInputStream.read()) != -1)
             {
-                bufferedOutputStream.write(i);
+                printStream.print(i);
             }
         }
         catch (FileNotFoundException e)
@@ -38,7 +38,7 @@ public class ByteStreams { //eignen sich nicht für Strings/Chars, sondern für 
 
     public static void copy(File from, File to)
     {
-        try (InputStream inputStream = new FileInputStream(from); OutputStream outputStream = new FileOutputStream(to))
+        try (FileInputStream inputStream = new FileInputStream(from); FileOutputStream outputStream = new FileOutputStream(to))
         {
             int i;
             while ((i = inputStream.read()) != -1)

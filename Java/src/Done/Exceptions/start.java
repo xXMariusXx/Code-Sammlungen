@@ -6,7 +6,7 @@ import Done.Exceptions.eigeneExceptions.MySecondException;
 
 public class start {
 
-    final static int i = 0; //0=0, -1=negativ, 1=positiv
+    final static int i = 1; //0=0, -1=negativ, 1=positiv
 
     public static void main(String[] args) {
         //**************************************************************************************************************
@@ -153,6 +153,7 @@ public class start {
         catch (MyFirstException | MySecondException e)
         {
             System.err.println("<normale Exception>: Fehler, Exception wird versucht zu beheben!");
+
             if (true) throw e;
         }
     }

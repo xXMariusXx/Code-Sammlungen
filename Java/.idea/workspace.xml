@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2534f42-be7e-4741-b6f1-1a7258c4728d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Done/Sonstiges/RekToIt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Done/Sonstiges/StackList/Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Done/Sonstiges/StackList/Liste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Done/Sonstiges/StackList/Start.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Collections/Listen/verkettet/VerketteteListe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Collections/Listen/verkettet/VerketteteListe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Collections/Listen/verkettet/start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Collections/Listen/verkettet/start.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Collections/Testobjekt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Collections/Testobjekt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/Collections/Vergleicher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Collections/Vergleicher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/OOP/Motorrad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/OOP/Motorrad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/OOP/Ottomotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/OOP/Ottomotor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/OOP/Zweirad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/OOP/Zweirad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Done/OOP/start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/OOP/start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Done/Exceptions/start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Exceptions/start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Done/Innere_Anonyme_Klassen/Klasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Innere_Anonyme_Klassen/Klasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Done/JavaFX8/HauptProgrammView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/JavaFX8/HauptProgramm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Done/JavaFX8/MouseKlickEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/JavaFX8/MouseKlickEventView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Done/JavaIO/Files/Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/JavaIO/Files/Files.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Done/JavaIO/Files/RandomAccessFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/JavaIO/Files/RandomAccessFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Done/JavaIO/Streams/ByteStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/JavaIO/Streams/ByteStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Done/JavaIO/Streams/CharStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/JavaIO/Streams/CharStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaFXBeans/Simple/Artikel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaFXBeans/Simple/Artikel.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,29 +40,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Testobjekt.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Done/Collections/Testobjekt.java">
+      <file leaf-file-name="HauptProgramm.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/HauptProgramm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="135">
+              <caret line="19" column="77" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VerketteteListe.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Done/Collections/Listen/verkettet/VerketteteListe.java">
+      <file leaf-file-name="MouseKlickEventView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/MouseKlickEventView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+            <state relative-caret-position="315">
+              <caret line="29" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="start.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Done/Collections/Listen/verkettet/start.java">
+      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Math.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+            <state relative-caret-position="440">
+              <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
+              <folding>
+                <element signature="e#32010#32011#0" expanded="true" />
+                <element signature="e#32095#32096#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,6 +109,7 @@
       <find>setPadding</find>
       <find>settop</find>
       <find>sort</find>
+      <find>textp</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,24 +118,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ToDo/StreamAPI/Testobjekt.java" />
-        <option value="$PROJECT_DIR$/src/ToDo/StreamAPI/Streams.java" />
-        <option value="$PROJECT_DIR$/src/ToDo/JavaFX8/AdvancedFX8/Hauptfenster.fxml" />
-        <option value="$PROJECT_DIR$/src/ToDo/JavaFX8/AdvancedFX8/Controller.java" />
-        <option value="$PROJECT_DIR$/src/ToDo/JavaFX8/AdvancedFX8/Nebenfenster.fxml" />
-        <option value="$PROJECT_DIR$/src/ToDo/JavaFX8/AdvancedFX8/HauptfensterController.java" />
-        <option value="$PROJECT_DIR$/src/ToDo/JavaFX8/AdvancedFX8/NebenfensterController.java" />
-        <option value="$PROJECT_DIR$/src/Done/JavaIO/Files/Files.java" />
-        <option value="$PROJECT_DIR$/src/Done/JavaIO/Files/RandomAccessFiles.java" />
-        <option value="$PROJECT_DIR$/src/Done/JavaIO/Streams/CharStreams.java" />
-        <option value="$PROJECT_DIR$/src/Done/JavaIO/Streams/ByteStreams.java" />
-        <option value="$PROJECT_DIR$/src/Done/JavaIO/Streams/Serialisierung.java" />
         <option value="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaFXBeans/ObservableCollection.java" />
-        <option value="$PROJECT_DIR$/src/Done/JavaFX8/FensterView.java" />
         <option value="$PROJECT_DIR$/src/Done/JavaFX8/Fenster2View.java" />
         <option value="$PROJECT_DIR$/src/Done/JavaFX8/GridBeispielView.java" />
-        <option value="$PROJECT_DIR$/src/Done/JavaFX8/MouseKlickEvent.java" />
-        <option value="$PROJECT_DIR$/src/Done/JavaFX8/HauptProgrammView.java" />
         <option value="$PROJECT_DIR$/src/Done/Lambdas/Methodenreferenz.java" />
         <option value="$PROJECT_DIR$/src/Done/Lambdas/LamdaAusdruecke.java" />
         <option value="$PROJECT_DIR$/src/Done/JavaFX8/AdvancedFX8/Threadsicherheit/Prime.java" />
@@ -167,6 +154,21 @@
         <option value="$PROJECT_DIR$/src/Done/Collections/Listen/verkettet/VerketteteListe.java" />
         <option value="$PROJECT_DIR$/src/Done/Collections/Testobjekt.java" />
         <option value="$PROJECT_DIR$/src/Done/Collections/Vergleicher.java" />
+        <option value="$PROJECT_DIR$/src/Done/Collections/Listen/Queue/Warteschlange.java" />
+        <option value="$PROJECT_DIR$/src/Done/Exceptions/ExceptionTest.java" />
+        <option value="$PROJECT_DIR$/src/Done/Exceptions/start.java" />
+        <option value="$PROJECT_DIR$/src/Done/JavaIO/Files/Files.java" />
+        <option value="$PROJECT_DIR$/src/Done/JavaIO/Files/RandomAccessFiles.java" />
+        <option value="$PROJECT_DIR$/src/Done/JavaIO/Streams/CharStreams.java" />
+        <option value="$PROJECT_DIR$/src/Done/JavaIO/Streams/ByteStreams.java" />
+        <option value="$PROJECT_DIR$/src/Done/Innere_Anonyme_Klassen/Klasse.java" />
+        <option value="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaBeans/Support2/Werbung.java" />
+        <option value="$PROJECT_DIR$/src/Done/Properties_Bindings/JavaFXBeans/Simple/Artikel.java" />
+        <option value="$PROJECT_DIR$/src/Done/JavaFX8/FensterView.java" />
+        <option value="$PROJECT_DIR$/src/Done/JavaFX8/HauptProgrammView.java" />
+        <option value="$PROJECT_DIR$/src/Done/JavaFX8/MouseKlickEvent.java" />
+        <option value="$PROJECT_DIR$/src/Done/JavaFX8/HauptProgramm.java" />
+        <option value="$PROJECT_DIR$/src/Done/JavaFX8/MouseKlickEventView.java" />
       </list>
     </option>
   </component>
@@ -185,7 +187,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -221,24 +223,7 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Done" type="462c0819:PsiDirectoryNode" />
-              <item name="Collections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Done" type="462c0819:PsiDirectoryNode" />
-              <item name="Collections" type="462c0819:PsiDirectoryNode" />
-              <item name="Listen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Done" type="462c0819:PsiDirectoryNode" />
-              <item name="Collections" type="462c0819:PsiDirectoryNode" />
-              <item name="Listen" type="462c0819:PsiDirectoryNode" />
-              <item name="verkettet" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaFX8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -280,7 +265,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.start">
+  <component name="RunManager" selected="Application.HauptProgramm">
     <configuration name="ByteStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Done.JavaIO.Streams.ByteStreams" />
       <module name="Java" />
@@ -292,46 +277,52 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="HauptfensterController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Done.JavaFX8.AdvancedFX8.FXML.HauptfensterController" />
+    <configuration name="Files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Done.JavaIO.Files.Files" />
       <module name="Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Done.JavaFX8.AdvancedFX8.FXML.*" />
+          <option name="PATTERN" value="Done.JavaIO.Files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RekInIt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Done.Sonstiges.RekInIt" />
+    <configuration name="HauptProgramm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Done.JavaFX8.HauptProgramm" />
       <module name="Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Done.Sonstiges.*" />
+          <option name="PATTERN" value="Done.JavaFX8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Done.Sonstiges.StackList.Start" />
+    <configuration name="HauptProgrammView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Done.JavaFX8.HauptProgrammView" />
       <module name="Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Done.Sonstiges.StackList.*" />
+          <option name="PATTERN" value="Done.JavaFX8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="start (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Done.Exceptions.start" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Done.Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Done.OOP.start" />
@@ -383,19 +374,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.HauptfensterController" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Start" />
-      <item itemvalue="Application.RekInIt" />
       <item itemvalue="Application.start" />
+      <item itemvalue="Application.start (1)" />
+      <item itemvalue="Application.Files" />
+      <item itemvalue="Application.HauptProgrammView" />
+      <item itemvalue="Application.HauptProgramm" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HauptProgramm" />
+        <item itemvalue="Application.HauptProgrammView" />
+        <item itemvalue="Application.Files" />
+        <item itemvalue="Application.start (1)" />
         <item itemvalue="Application.start" />
-        <item itemvalue="Application.Start" />
-        <item itemvalue="Application.RekInIt" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.HauptfensterController" />
       </list>
     </recent_temporary>
   </component>
@@ -426,7 +417,7 @@
       <workItem from="1534069523735" duration="4657000" />
       <workItem from="1534159317085" duration="3907000" />
       <workItem from="1534237616699" duration="6058000" />
-      <workItem from="1535451941547" duration="5213000" />
+      <workItem from="1535451941547" duration="26793000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1532452535299</created>
@@ -561,11 +552,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533727853623</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="-">
+      <created>1535544633105</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1535544633106</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="191159000" />
+    <option name="totallyTimeSpent" value="212739000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -577,7 +575,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="12" show_stripe_button="false" sideWeight="0.5006896" weight="0.18620689" />
@@ -588,8 +587,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5016155" side_tool="true" weight="0.32965517" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32956383" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4983845" visible="true" weight="0.32965517" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32965517" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4983845" weight="0.32965517" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32965517" />
       <window_info anchor="bottom" id="Floobits" order="11" show_stripe_button="false" weight="0.32965517" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32965517" />
       <window_info id="Capture Tool" order="3" />
@@ -648,7 +647,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -656,324 +655,17 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/nio/file/Files.java">
+    <entry file="file://$PROJECT_DIR$/src/Done/Lambdas/Methodenreferenz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="3742" column="33" selection-start-line="3742" selection-start-column="33" selection-end-line="3742" selection-end-column="33" />
+        <state relative-caret-position="243">
+          <caret line="42" column="49" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+    <entry file="file://$PROJECT_DIR$/src/Done/Collections/Listen/verkettet/VerketteteListe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="606" column="6" selection-start-line="606" selection-start-column="6" selection-end-line="606" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/function/ToIntFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="486" column="54" lean-forward="true" selection-start-line="486" selection-start-column="54" selection-end-line="486" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/StreamAPI/Streams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="77" column="46" selection-start-line="77" selection-start-column="46" selection-end-line="77" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/AdvancedFX8/Threadsicherheit/runLaterMethode/PrimeRunner.java" />
-    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/AdvancedFX8/Threadsicherheit/runLaterMethode/PrimeFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/AdvancedFX8/Threadsicherheit/runLaterMethode/Prime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="39" column="49" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/AdvancedFX8/Threadsicherheit/TaskMethode/PrimeFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="70" column="34" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/AdvancedFX8/Threadsicherheit/TaskMethode/PrimeTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/AdvancedFX8/FXML/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/HauptProgrammView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/MouseKlickEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/AdvancedFX8/FXML/NebenfensterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="34" column="44" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/AdvancedFX8/FXML/Nebenfenster.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/AdvancedFX8/FXML/Nebenfenster.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/AdvancedFX8/FXML/HauptfensterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="67" column="108" lean-forward="true" selection-start-line="67" selection-start-column="61" selection-end-line="67" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/AdvancedFX8/FXML/Hauptfenster.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="67" column="52" selection-start-line="67" selection-start-column="52" selection-end-line="67" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="111" column="16" lean-forward="true" selection-start-line="111" selection-start-column="16" selection-end-line="111" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2056">
-          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="191" column="11" selection-start-line="191" selection-start-column="11" selection-end-line="191" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/Done/Sonstiges/Benzin.java" />
-    <entry file="file://$PROJECT_DIR$/src/Done/Sonstiges/Diesel.java" />
-    <entry file="file://$PROJECT_DIR$/src/Done/Sonstiges/Fahrzeug.java" />
-    <entry file="file://$PROJECT_DIR$/src/Done/Sonstiges/RekToIt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/Sonstiges/Kraftstoff.java" />
-    <entry file="file://$PROJECT_DIR$/src/Done/Sonstiges/StackList/Liste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/Sonstiges/StackList/Link.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/Sonstiges/StackList/Start.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/Threads/start.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="32" column="26" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/OOP/Ottomotor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/OOP/Zweirad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/OOP/start.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/OOP/Tank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/OOP/Auto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="43" column="15" lean-forward="true" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
-          <folding>
-            <element signature="e#1053#1054#0" expanded="true" />
-            <element signature="e#1085#1086#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/OOP/Motorrad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="260" column="12" selection-start-line="260" selection-start-column="12" selection-end-line="260" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/Collections/Testinterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="135" column="15" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/Threads/Producer_Consumer/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="48" column="8" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/Collections/Listen/verkettet/start.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/Collections/Vergleicher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="-42">
+          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -984,10 +676,359 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Done/Collections/Listen/verkettet/VerketteteListe.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+        <state relative-caret-position="-537">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-878">
+          <caret line="121" column="11" selection-start-line="121" selection-start-column="11" selection-end-line="121" selection-end-column="11" />
+          <folding>
+            <element signature="e#4308#4309#0" expanded="true" />
+            <element signature="e#4360#4361#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Collections/Listen/Queue/Warteschlange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="86" column="16" lean-forward="true" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Collections/Listen/Stack/Stapel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Collections/Set/Menge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Exceptions/eigeneExceptions/MyFirstSpecificException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Exceptions/ExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="66" column="59" selection-start-line="66" selection-start-column="59" selection-end-line="66" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Exceptions/bisKorrekterWert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Exceptions/start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Exceptions/eigeneExceptions/MyRuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Exceptions/eigeneExceptions/MyFirstException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="1284" column="18" selection-start-line="1284" selection-start-column="18" selection-end-line="1284" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Files/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/FileFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/RandomAccessFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="202" column="11" selection-start-line="202" selection-start-column="11" selection-end-line="202" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/SQL/SQLAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-431">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/SQL/SQLRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Streams/MyFilterWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/FilterWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="45" column="2" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/PrintWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1615">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Streams/CharStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="108" column="27" lean-forward="true" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2054">
+          <caret line="956" column="18" selection-start-line="956" selection-start-column="18" selection-end-line="956" selection-end-column="18" />
+          <folding>
+            <element signature="e#36393#36394#0" expanded="true" />
+            <element signature="e#36459#36460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/TestNebenObjekt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Streams/ByteStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Files/RandomAccessFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="70" column="76" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Streams/Serialisierung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="30" column="71" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaIO/Testobjekt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Innere_Anonyme_Klassen/Schnittstelle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Innere_Anonyme_Klassen/WeitereKlasse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Innere_Anonyme_Klassen/Klasse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Properties_Bindings/JavaBeans/Support2/Werbung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Properties_Bindings/JavaBeans/Support2/Artikel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Properties_Bindings/JavaFXBeans/Simple/Werbung.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Properties_Bindings/JavaFXBeans/Simple/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/Properties_Bindings/JavaFXBeans/Simple/Artikel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/control/Labeled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="143" column="32" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/scene/control/Label.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="52" column="30" lean-forward="true" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/Testobjekt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/Fenster2View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/FensterView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191">
+          <caret line="52" column="56" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/GridBeispielView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
+          <folding>
+            <element signature="e#32010#32011#0" expanded="true" />
+            <element signature="e#32095#32096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/MouseKlickEventView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="29" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Done/JavaFX8/HauptProgramm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="19" column="77" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
         </state>
       </provider>
     </entry>

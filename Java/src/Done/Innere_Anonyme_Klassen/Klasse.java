@@ -30,7 +30,7 @@ public class Klasse {
 
         public InnereKlasse(String name) {
             this.iname = name;
-            this.i = 5;
+            this.i = 5; // oder i=5 (ohne this)
             Klasse.this.i++; //Da äußeres I von innerem I überdeckt wird
         }
 

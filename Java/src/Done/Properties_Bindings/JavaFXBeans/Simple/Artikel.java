@@ -24,7 +24,7 @@ public class Artikel implements Serializable {
         this.preis.set(preis);
     }
 
-    public IntegerProperty preisProperty()
+    public final IntegerProperty preisProperty()
     {
         return preis;
     }

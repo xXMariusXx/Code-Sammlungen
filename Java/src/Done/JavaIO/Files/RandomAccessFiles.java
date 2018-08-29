@@ -55,7 +55,6 @@ public class RandomAccessFiles{
             {
                 randomAccessFileto.write(b);
             }
-
         }
         catch (FileNotFoundException e)
         {
@@ -71,10 +70,10 @@ public class RandomAccessFiles{
     {
         try(RandomAccessFile randomAccessFile = new RandomAccessFile(quelle,"r"))
         {
-            String c;
-            while ((c = randomAccessFile.readLine()) != null)
+            String s;
+            while ((s = randomAccessFile.readLine()) != null)
             {
-                System.out.println(c);
+                System.out.println(s);
             }
         }
         catch (FileNotFoundException e)
