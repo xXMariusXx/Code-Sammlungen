@@ -24,9 +24,9 @@ public class Motorrad extends Fahrzeug implements Zweirad, Ottomotor {
     }
 
     @Override //Methoden aus Ottomotor
-    public int gibPS()
+   public int gibPS()
     {
-        return 500;
+     return 500;
     }
 
     public void setAntrieb(String antrieb) {

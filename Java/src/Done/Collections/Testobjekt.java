@@ -2,7 +2,7 @@ package Done.Collections;
 
 import java.util.Random;
 
-public class Testobjekt implements Comparable, Testinterface{
+public class Testobjekt implements Comparable, Testinterface {
     private final int id;
     private static int anzahl = 0;
     private int groeße;

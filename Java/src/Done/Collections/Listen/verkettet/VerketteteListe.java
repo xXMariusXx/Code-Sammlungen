@@ -5,6 +5,7 @@ import java.util.stream.Collectors;
 
 import Done.Collections.Vergleicher;
 import Done.Collections.Testinterface;
+import Done.Threads.Producer_Consumer.Consumer;
 
 public class VerketteteListe<T extends Comparable & Testinterface> { //Schränkt den Typparameter ein, auf Objekte die
                                                                     //die Interfaces A & B implementieren
@@ -22,7 +23,7 @@ public class VerketteteListe<T extends Comparable & Testinterface> { //Schränkt
         list.remove(object);
     }
 
-    public T gibIndex(int index)
+    public T gibAnIndex(int index)
     {
         return list.get(index);
     }
@@ -44,9 +45,11 @@ public class VerketteteListe<T extends Comparable & Testinterface> { //Schränkt
         Collections.sort(list, (o1, o2) -> o1.compareTo(o2));
     }
 
+
     public void listeSortierenComparator4(){
-        Collections.sort(list, Comparator.naturalOrder());
+        Collections.sort(list, Comparable::compareTo);
     }
+
 
     public void listeSortierenComparable(){
         Collections.sort(list);
@@ -76,7 +79,7 @@ public class VerketteteListe<T extends Comparable & Testinterface> { //Schränkt
         }
 
         //oder:
-        //list.forEach(System.out::println);
+        list.forEach(System.out::println);
 
     }
 }

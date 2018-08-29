@@ -6,4 +6,5 @@ public interface Zweirad {
 
     //Zu implementierende Methoden:
     String gibAntrieb();
+
 }

@@ -59,12 +59,10 @@ public class start {
         //              Irgendwann muss eine Implementierung von toString vorhanden sein, da durch abst. Klasse vorgegeben
 
 
-
         Zweirad motorrad1 = new Motorrad("m1", "kette",new Tank(50)); // -> nur Methoden der Schnittstelle können aufgerufen werden
         motorrad1.gibAntrieb(); //Korrekt, da statischer Typ gibAntrieb deklariert
         //motorrad1.gibPS(); nicht korrekt, da statischer Typ gibPS nicht vorgibt
         ((Motorrad) motorrad1).gibPS(); //Korrekt, wenn cast zu Motorrad
         ((Motorrad) motorrad1).setAntrieb("Kette"); //Korrekt, wenn cast zu Motorrad
-
     }
 }

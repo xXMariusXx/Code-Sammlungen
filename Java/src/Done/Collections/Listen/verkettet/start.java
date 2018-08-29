@@ -8,6 +8,7 @@ public class start {
 
     public static void main(String[] args) {
         VerketteteListe<Testobjekt> liste = new VerketteteListe<Testobjekt>();
+
         for (int i = 0; i<listenLaenge; i++)
         {
             liste.hinzufuegen(new Testobjekt());
