@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/BeschrifteteForm.cpp
+BeschrifteteForm.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/BeschrifteteForm.h
+iostream
+-
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/BeschrifteteForm.h
+string
+-
+Form.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/Form.h
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/BeschriftetesRechteck.cpp
+BeschriftetesRechteck.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/BeschriftetesRechteck.h
+string
+-
+iostream
+-
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/BeschriftetesRechteck.h
+BeschrifteteForm.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/BeschrifteteForm.h
+Rechteck.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/Rechteck.h
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/Form.cpp
+Form.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/Form.h
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/Form.h
+Punkt.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/Punkt.h
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/Punkt.cpp
+Punkt.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/Punkt.h
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/Punkt.h
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/Rechteck.cpp
+Rechteck.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/Rechteck.h
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/Rechteck.h
+Form.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/Form.h
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/main.cpp
+iostream
+-
+main.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/main.h
+BeschriftetesRechteck.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/BeschriftetesRechteck.h
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Mehrfachvererbung/main.h
+

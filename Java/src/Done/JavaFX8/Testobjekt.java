@@ -5,7 +5,9 @@ import javafx.beans.property.SimpleIntegerProperty;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 
+import java.util.Arrays;
 import java.util.Random;
+
 
 public class Testobjekt {
     private IntegerProperty id = new SimpleIntegerProperty();

@@ -15,6 +15,8 @@ public class ObservableCollection {
                     for(Testobjekt a : c.getAddedSubList()){
                         System.out.printf("%s wurde neu eingetragen%n", a.getName()); }}}}
         });
+
+
         list.addAll(new Testobjekt(10000,"Obermeier" ),
                 new Testobjekt( 20000,"Neumeier"));
     }

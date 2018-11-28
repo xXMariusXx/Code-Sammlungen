@@ -6,4 +6,9 @@ public class Controller {
         testobjekt.neuerWert();
     }
 
+    public void machwas()
+    {
+        
+    }
+
 }

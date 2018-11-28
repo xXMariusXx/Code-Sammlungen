@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Vererbung/BeschrifteteForm.h
+string
+-
+Form.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Vererbung/Form.h
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Vererbung/BeschriftetesRechteck.h
+BeschrifteteForm.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Vererbung/BeschrifteteForm.h
+Rechteck.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Vererbung/Rechteck.h
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Vererbung/Form.h
+Punkt.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Vererbung/Punkt.h
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Vererbung/Punkt.h
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Vererbung/Rechteck.h
+Form.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Vererbung/Form.h
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Vererbung/main.cpp
+iostream
+-
+main.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Vererbung/main.h
+BeschriftetesRechteck.h
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Vererbung/BeschriftetesRechteck.h
+
+/Users/Marius/Library/Mobile Documents/3L68KQB4HG~com~readdle~CommonDocuments/Documents/Code/Code Sammlungen/C++/Vererbung/main.h
+

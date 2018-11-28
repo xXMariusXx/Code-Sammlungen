@@ -43,9 +43,6 @@ public class Streams {
         listStream.mapToDouble(Testobjekt::getAlter);
         listStream.map(Testobjekt::getAlter).mapToDouble(Integer::doubleValue);
 
-        //Reduce
-        listStream.map(Testobjekt::getAlter).reduce(0, (a,b) -> a+b); //Summiert alle Objekte miteinander auf
-        listStream.map(Testobjekt::getAlter).reduce(0, Integer::sum); //Identität: Ergebnis für leeren Stream
 
         //Sortieren
         listStream.sorted(); //Objekte müssen Compareable sein
@@ -57,11 +54,14 @@ public class Streams {
         listStream.skip(3);
 
         //Terminaloperationen -> liefert Teilweise keinen Stream zurück sondern Optional<T>)
-        //reduce auch
+        //Reduce
+        listStream.map(Testobjekt::getAlter).reduce(0, (a,b) -> a+b); //Summiert alle Objekte miteinander auf
+        listStream.map(Testobjekt::getAlter).reduce(0, Integer::sum); //Identität: Ergebnis für leeren Stream
+        //weitere
         listStream.count();
-        listStream.max(Comparator.comparingInt(Testobjekt::getAlter));
-        listStream.min(Comparator.comparingInt(Testobjekt::getAlter));
-        listStream.findFirst();
+        listStream.max(Comparator.comparingInt(Testobjekt::getAlter)); //return Optional
+        listStream.min(Comparator.comparingInt(Testobjekt::getAlter)); //return Optional
+        listStream.findFirst(); //return Optional
         listStream.anyMatch(s -> s.getAlter() > 50);
         listStream.allMatch(s -> s.getAlter() > 1);
         listStream.forEach(System.out::println);
@@ -72,18 +72,19 @@ public class Streams {
         listStream.findFirst().get();
 
         //in Array
-        listStream.toArray(Testobjekt[]::new);
+        listStream.toArray(Testobjekt[]::new); //returnt array
 
         //in Liste
-        listStream.collect(Collectors.toList());
+        listStream.collect(Collectors.toList()); //return liste
 
 
         //komplexe Beispiele
         listStream.anyMatch(s -> s.getName().equalsIgnoreCase("A"));
         listStream.filter(s -> s.getName().contains("Hans")).max(Comparator.comparingInt(Testobjekt::getAlter)).get();
         listStream.filter(s -> s.getAlter() == 5).limit(3).forEach(s -> System.out.println(s.getId() + s.getAlter()));
-        listStream.map(Testobjekt::getAlter).mapToDouble(Integer::doubleValue).average().getAsDouble();
+
         listStream.collect(Collectors.averagingInt(Testobjekt::getAlter));
+        listStream.map(Testobjekt::getAlter).mapToDouble(Integer::doubleValue).average().getAsDouble();
         listStream.mapToDouble(Testobjekt::getAlter).average().getAsDouble();
         listStream.mapToInt(Testobjekt::getAlter).average().getAsDouble();
 

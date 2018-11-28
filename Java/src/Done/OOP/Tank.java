@@ -14,5 +14,10 @@ public class Tank {
     public void setMenge(int menge) {
         this.menge = menge;
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        return this.menge == ((Tank) obj).menge;
+    }
 }
 

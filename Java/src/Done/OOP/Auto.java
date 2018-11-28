@@ -43,4 +43,5 @@ public class Auto extends Fahrzeug{ //extends Object (kann weggelassen werden, w
     public void setTank(Tank tank) {
         this.tank = tank;
     }
+
 }

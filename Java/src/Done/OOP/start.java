@@ -32,7 +32,6 @@ public class start {
 
 
 
-
         auto3 = new Pkw("auto3neu",1);
         //ehemaliges auto3(10 Plätze) durch Garbage Collector entfernt
         System.out.println("Auto3neu: " +auto3);

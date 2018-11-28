@@ -8,6 +8,7 @@ public class Main {
         Werbung werbung = new Werbung();
 
         artikel.addObserver(werbung);
+        artikel.addObserver((a,b) -> System.out.println("Neuer Preis: " + ((Artikel)a).getPreis()));
 
         artikel.setPreis(40);
     }

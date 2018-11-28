@@ -28,9 +28,9 @@ public class HauptProgramm extends Application {
         primaryStage.show();
 
 
-        //new GridBeispielView();
+        new GridBeispielView();
         //new MouseKlickEvent();
-        new FensterView();
+        //new FensterView();
         //new Fenster2View();
 
     }
